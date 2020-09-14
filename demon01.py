@@ -6,6 +6,14 @@
 # print(type([]))
 # print(type({}))
 
+# print(type("haha"))
+# print(type(2333))
+# print(type(2.33))
+# print(type(True))
+# print(type(()))
+# print(type([]))
+# print(type({}))
+
 # a = str("2333")
 # print(type(a))
 
